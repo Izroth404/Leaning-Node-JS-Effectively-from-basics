@@ -31,8 +31,8 @@ sayHi(b)
 //local
 const a='rana'
 //shared from
-const b='bididkhor'
-const c = 'paglachoda'
+const b='bidi'
+const c = 'pagla'
 
 console.log(module);
 
