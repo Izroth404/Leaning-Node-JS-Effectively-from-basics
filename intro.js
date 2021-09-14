@@ -23,7 +23,7 @@ const sayHi= (name) =>{
     console.log(`helo there ${name}`);
 }
 
-sayHi('bidikhor')
+sayHi('bidi')
 sayHi(a)
 sayHi(b)
 
